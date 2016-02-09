@@ -1,0 +1,13 @@
+{
+  "name": "homebot",
+  "version": "1.0.0",
+  "description": "A bot for controlling home automation",
+  "main": "app.js",
+  "scripts": {
+  },
+  "author": "Akhmad Syaikhul Hadi",
+  "license": "MIT",
+  "dependencies": {
+    "matrix-js-sdk": "^0.3.0"
+  }
+}
