@@ -8,7 +8,7 @@ You have to edit the `config.js` to setup a configuration.
 
 Run:
 ```
-$ npm init
+$ npm install
 $ npm app
 ```
 
